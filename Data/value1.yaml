@@ -1,0 +1,19 @@
+#{'name':'lili','Name':'lili'}
+
+#value3 :
+#  name1: "张三"
+#  name2: "李四"
+
+#value4:
+#  - 1
+#  - 2
+#
+#value5: [1,2,3]
+#
+#value6:
+#  - name: "lili"
+#  - name: "lili"
+
+value20: 2020-11-11 12:12:12
+value21: 2020-11-11
+value22: 12:12:12
